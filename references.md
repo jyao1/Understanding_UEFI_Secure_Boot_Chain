@@ -96,6 +96,8 @@
 
 [Intel Security] security-technologies-4th-gen-core, https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/security-technologies-4th-gen-core-retail-paper.pdf 
 
+[IntelCSME] Behind the Scenes of Intel Security and Manageability Engine, [http://i.blackhat.com/USA-19/Wednesday/us-19-Hasarfaty-Behind-The-Scenes-Of-Intel-Security-And-Manageability-Engine.pdf](http://i.blackhat.com/USA-19/Wednesday/us-19-Hasarfaty-Behind-The-Scenes-Of-Intel-Security-And-Manageability-Engine.pdf)
+
 [IntelPFR] PFR server blocks solution, [https://www.intel.com/content/dam/www/public/us/en/documents/solution-briefs/pfr-server-blocks-solution-brief.pdf](https://www.intel.com/content/dam/www/public/us/en/documents/solution-briefs/pfr-server-blocks-solution-brief.pdf)
 
 [IntelPFR2] Intel Platform Firmware Resilience, [https://blog.csdn.net/zdx19880830/article/details/84190005](https://blog.csdn.net/zdx19880830/article/details/84190005)
