@@ -66,6 +66,8 @@
 
 [AndroidVerifiedBoot3] Android Verified Boot 2.0, [https://blog.csdn.net/rikeyone/article/details/80606147](https://blog.csdn.net/rikeyone/article/details/80606147)
 
+[AppleT2] [https://www.apple.com/mac/docs/Apple_T2_Security_Chip_Overview.pdf](https://www.apple.com/mac/docs/Apple_T2_Security_Chip_Overview.pdf)
+
 [BootGuard] Direct from Development – Cyber Resiliency In Chipset and BIOS, [https://downloads.dell.com/solutions/servers-solution-resources/Direct%20from%20Development%20-%20Cyber-Resiliency%20In%20Chipset%20and%20BIOS.pdf](https://downloads.dell.com/solutions/servers-solution-resources/Direct%20from%20Development%20-%20Cyber-Resiliency%20In%20Chipset%20and%20BIOS.pdf)
 
 [CapsuleRecovery] Jiewen Yao, Vincent Zimmer, A Tour Beyond BIOS- Capsule Update and Recovery in EDK II, https://github.com/tianocore-docs/Docs/raw/master/White_Papers/A_Tour_Beyond_BIOS_Capsule_Update_and_Recovery_in_EDK_II.pdf

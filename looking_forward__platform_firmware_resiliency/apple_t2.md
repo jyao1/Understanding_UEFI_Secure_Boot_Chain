@@ -1,5 +1,5 @@
 <!--- @file
-  other-platform-firmware-resiliency-pfr-implementations.md for Understanding the UEFI Secure Boot Chain
+  apple-t2.md for Understanding the UEFI Secure Boot Chain
 
   Copyright (c) 2019, Intel Corporation. All rights reserved.<BR>
 
@@ -29,13 +29,14 @@
 
 -->
 
+## Apple T2 {#apple-t2}
 
-## Other Platform Firmware Resiliency (PFR) Implementations {#other-platform-firmware-resiliency-pfr-implementations}
+Apple developed [T2](https://www.apple.com/mac/docs/Apple_T2_Security_Chip_Overview.pdf) security chip. _“It features a Secure Enclave coprocessor, which provides the foundation for APFS encrypted storage, secure boot, and Touch ID on Mac.”_
 
-Additional PFR solutions are available for implementing NIST SP800-193, such as the [Lattice Root of Trust FPGA solution](http://www.latticesemi.com/pfr) (see Figure 4-13).
+The T2 macOS secure boot chain is similar to other secure boot solution. The chip executes code from immutable Boot ROM as root-of-trust. Then the Boot ROM verifies the iBoot bootloader. The later verifies the T2 kernel, which subsequently verifies the UEFI firmware.
 
-![](/media/image27.png)
+Figure 4-12 shows the T2 macOS Secure Boot chain.
 
-###### Figure 4-13: Lattice PFR (source: [latticesemi.com/pfr](http://www.latticesemi.com/pfr)).{#4-13-lattice-pfr-source-latticesemi.com-pfr}
+![](/media/image26.png)
 
-The difference in implementations is hardware RoT device selection. Selections include processor microcode, CPLD devices, or FPGA devices. Each has its particular advantages and disadvantages. For example, processor microcode has a limited protection scope, which is why many customers use add-on devices for hardware RoT (CPLD, FPGA).
+###### Figure 4-12: T2 macOS Secure Boot(source: “[Apple T2 Security Chip Overview](https://www.apple.com/mac/docs/Apple_T2_Security_Chip_Overview.pdf)”){#4-12-t2-macOS-secure-boot}
