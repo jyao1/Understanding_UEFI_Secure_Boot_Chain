@@ -86,6 +86,8 @@
 
 [DICE] TCG DICE, [https://trustedcomputinggroup.org/work-groups/dice-architectures/](https://trustedcomputinggroup.org/work-groups/dice-architectures/)
 
+[DICE-MSFT] Microsoft DICE, [https://www.microsoft.com/en-us/research/project/dice-device-identifier-composition-engine/](https://www.microsoft.com/en-us/research/project/dice-device-identifier-composition-engine/)
+
 [FirmwareSecurity] Dell Firmware Security, [https://www.platformsecuritysummit.com/2018/speaker/johnson/PSEC2018-Dell-Firmware-Security-Justin-Johnson.pdf](https://www.platformsecuritysummit.com/2018/speaker/johnson/PSEC2018-Dell-Firmware-Security-Justin-Johnson.pdf)
 
 [GoogleTitan] Titan in depth security in plaintext, [https://cloud.google.com/blog/products/gcp/titan-in-depth-security-in-plaintext](https://cloud.google.com/blog/products/gcp/titan-in-depth-security-in-plaintext)
@@ -113,6 +115,8 @@
 [https://pcisig.com/pcie%C2%AE-component-authentication](https://pcisig.com/pcie%C2%AE-component-authentication)
 
 [PCIeSecurity] PCIe* Device Security Enhancements Specification, [https://www.intel.com/content/www/us/en/io/pci-express/pcie-device-security-enhancements-spec.html](https://www.intel.com/content/www/us/en/io/pci-express/pcie-device-security-enhancements-spec.html)
+
+[RIoT] Robust IoT, [https://www.microsoft.com/en-us/research/wpcontent/uploads/2016/06/RIoT20Paper-1.1-1.pdf](https://www.microsoft.com/en-us/research/wpcontent/uploads/2016/06/RIoT20Paper-1.1-1.pdf)
 
 [S3Resume] Jiewen Yao, Vincent Zimmer, [A Tour Beyond BIOS Implementing S3 Resume with EDK II](https://github.com/tianocore-docs/Docs/raw/master/White_Papers/A_Tour_Beyond_BIOS_Implementing_S3_resume_with_EDKII_V2.pdf), [https://github.com/tianocore-docs/Docs/raw/master/White_Papers/A_Tour_Beyond_BIOS_Implementing_S3_resume_with_EDKII_V2.pdf](https://github.com/tianocore-docs/Docs/raw/master/White_Papers/A_Tour_Beyond_BIOS_Implementing_S3_resume_with_EDKII_V2.pdf)
 
